@@ -9,14 +9,14 @@ Sistema de predição de preços de carros usados desenvolvido para a Rusty Barg
 - Otimizar o tempo de treinamento do modelo
 
 ## 🛠️ Ferramentas e Bibliotecas Utilizadas 
-Python: Linguagem principal utilizada para a análise
-Pandas e Numpy: Biblioteca para manipulação e análise de dados
-Sklearn: Biblioteca para construção de modelo de machine learning
-Seaborn: Biblioteca para construção de gráficos
-Matplotlib: Biblioteca para construção de gráficos
-Math: Biblioteca para calculos matematicos
-Lgbm: Biblioteca para construção de modelo de machine learning
-Catboost: Biblioteca para construção de modelo de machine learning
+- Python: Linguagem principal utilizada para a análise
+- Pandas e Numpy: Biblioteca para manipulação e análise de dados
+- Sklearn: Biblioteca para construção de modelo de machine learning
+- Seaborn: Biblioteca para construção de gráficos
+- Matplotlib: Biblioteca para construção de gráficos
+- Math: Biblioteca para calculos matematicos
+- Lgbm: Biblioteca para construção de modelo de machine learning
+- Catboost: Biblioteca para construção de modelo de machine learning
 
 ## 📊 Conjunto de Dados
 O dataset inclui as seguintes características:
