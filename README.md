@@ -64,25 +64,25 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 
 ## 📚 Aprendizados
 
-    * Análise de dados e extração de insights
-    * Preparação de dados para Machine Learning
-    * Aplicação de regras de negócios
-    * Implementação de modelos de Machine Learning
-    * Documentação detalhada de projetos
-    * Utilização do ecossistema Python
-    * Tomada de decisões baseada em dados
+- Análise de dados e extração de insights
+- Preparação de dados para Machine Learning
+- Aplicação de regras de negócios
+- Implementação de modelos de Machine Learning
+- Documentação detalhada de projetos
+- Utilização do ecossistema Python
+- Tomada de decisões baseada em dados
 
 ## Aprendizados
 
-    * Análise de dados: Extração de insights valiosos a partir de grandes volumes de dados.
-    * Preparação para Machine Learning: Separação entre conjuntos de treino e teste, seleção de features.
-    * Aplicação de modelos de Machine Learning: Ajuste, avaliação e documentação.
-    * Tomada de decisões baseadas em dados: Uso de insights para decisões estratégicas.
+- Análise de dados: Extração de insights valiosos a partir de grandes volumes de dados.
+- Preparação para Machine Learning: Separação entre conjuntos de treino e teste, seleção de features.
+- Aplicação de modelos de Machine Learning: Ajuste, avaliação e documentação.
+- Tomada de decisões baseadas em dados: Uso de insights para decisões estratégicas.
 
 ## 🛠️ Instalação
 
-    * Clone este repositório
-    * Instale as dependências listadas acima
-    * Extrair o arquivo csv da pasta zip
-    * Execute o aplicativo:
+- Clone este repositório
+- Instale as dependências listadas acima
+- Extrair o arquivo csv da pasta zip
+- Execute o aplicativo:
 
