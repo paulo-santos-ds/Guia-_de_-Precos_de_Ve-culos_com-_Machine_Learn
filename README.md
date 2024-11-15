@@ -72,16 +72,6 @@ O dataset inclui as seguintes características:
 
 Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de Decisão e Regressão Linear para decidir qual o melhor modelo para nosso conjunto de dados. Testamos diferentes parâmetros no modelo lightGBM que variaram muito o tempo de execução do mesmo, por isso deixei o que está no projeto. Além de medir o tempo de execução de cada modelo avaliamos todos eles pelo REQM, e por isso, podemos escolher o modelo lightGBM como o melhor para essa tarefa, por mais que ele tenha o maior tempo de execução, é acetável.
 
-## 📚 Aprendizados
-
-- Análise de dados e extração de insights
-- Preparação de dados para Machine Learning
-- Aplicação de regras de negócios
-- Implementação de modelos de Machine Learning
-- Documentação detalhada de projetos
-- Utilização do ecossistema Python
-- Tomada de decisões baseada em dados
-
 ## 📝 Aprendizados
 
 - Análise de dados: Extração de insights valiosos a partir de grandes volumes de dados.
