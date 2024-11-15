@@ -43,23 +43,19 @@ O dataset inclui as seguintes características:
 
 ## 🔍 Metodologia
 1. Análise Exploratória de Dados
-
     Importação das bibliotecas necessárias
     Carregamento e visualização dos dados
 
 2. Pré-processamento
-
     Tratamento de dados ausentes
     Remoção de dados duplicados
 
 3. Preparação
-
     Codificação de rótulos
     Seleção de features e target
     Divisão entre base de teste e treino
 
 4. Criação de Modelos
-
     Calibração de hiperparâmetros
     Implementação dos modelos:
         LightGBM
