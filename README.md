@@ -82,7 +82,7 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 - Utilização do ecossistema Python
 - Tomada de decisões baseada em dados
 
-## Aprendizados
+## 📝 Aprendizados
 
 - Análise de dados: Extração de insights valiosos a partir de grandes volumes de dados.
 - Preparação para Machine Learning: Separação entre conjuntos de treino e teste, seleção de features.
