@@ -94,5 +94,5 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 - Clone este repositório
 - Instale as dependências listadas acima
 - Extrair o arquivo csv da pasta zip
-- Execute o aplicativo:
+- Execute o aplicativo
 
