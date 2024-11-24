@@ -83,9 +83,9 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 ```
 
 2. Extrair o arquivo (car.zip)
-```bash
  ```bash
  https://github.com/paulo-santos-ds/analise_de_sentimentos_em_criticas_de_filmes
+
 ```
 3. Instale as dependências
 ```bash
