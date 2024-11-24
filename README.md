@@ -75,10 +75,25 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 - Aplicação de modelos de Machine Learning: Ajuste, avaliação e documentação.
 - Tomada de decisões baseadas em dados: Uso de insights para decisões estratégicas.
 
-## 🛠️ Instalação
+## 🚀 Como Usar
 
-- Clone este repositório
-- Instale as dependências listadas acima
-- Extrair o arquivo csv da pasta zip
-- Execute o aplicativo
+1. Clone o repositório
+```bash
+ https://github.com/paulo-santos-ds/Guia_de_Precos_de_Veiculos_com_Machine_Learn
+```
+
+2. Extrair o arquivo (car.zip)
+```bash
+ ```bash
+ https://github.com/paulo-santos-ds/analise_de_sentimentos_em_criticas_de_filmes
+```
+3. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute o notebook principal
+```bash
+https://github.com/paulo-santos-ds/Guia_de_Precos_de_Veiculos_com_Machine_Learn/blob/main/car_data.ipynb
+```
 
