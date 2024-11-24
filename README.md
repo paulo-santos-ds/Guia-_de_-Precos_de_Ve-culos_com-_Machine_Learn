@@ -75,7 +75,7 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 - Aplicação de modelos de Machine Learning: Ajuste, avaliação e documentação.
 - Tomada de decisões baseadas em dados: Uso de insights para decisões estratégicas.
 
-## 🚀 Como Usar
+## 🚀  Como Usar
 
 1. Clone o repositório
 ```bash
