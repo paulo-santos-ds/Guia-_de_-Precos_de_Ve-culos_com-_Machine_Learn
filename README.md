@@ -1,5 +1,6 @@
 # 🚗 Guia de Precos de Veiculos com Machine Learn
 
+
 ## 📋 Sobre o Projeto
 Sistema de predição de preços de carros usados desenvolvido para a Rusty Bargain. O modelo visa estimar rapidamente o valor de mercado de veículos, otimizando o processo de compra e venda através de análise precisa e eficiente.
 
