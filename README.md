@@ -1,7 +1,6 @@
 # 🚗 Guia de Precos de Veiculos com Machine Learn
 
 
-
 ## 📋 Sobre o Projeto
 Sistema de predição de preços de carros usados desenvolvido para a Rusty Bargain. O modelo visa estimar rapidamente o valor de mercado de veículos, otimizando o processo de compra e venda através de análise precisa e eficiente.
 
@@ -22,6 +21,7 @@ Sistema de predição de preços de carros usados desenvolvido para a Rusty Barg
 
 ## 📊 Conjunto de Dados
 O dataset inclui as seguintes características:
+
 
 ### Dados Temporais
 - `DateCrawled`: Data de extração do perfil
@@ -98,4 +98,3 @@ pip install -r requirements.txt
 ```bash
 https://github.com/paulo-santos-ds/Guia_de_Precos_de_Veiculos_com_Machine_Learn/blob/main/car_data.ipynb
 ```
-
